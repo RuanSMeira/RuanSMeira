@@ -4,7 +4,7 @@
 
 Olá! Sou o Ruan, estudante de **Desenvolvimento de Software Multiplataforma (DSM)**. construí uma base sólida em **Orientação a Objetos, Estruturas de Dados e Bancos de Dados Relacionais**.
 
-Minha experiência prática envolve principalmente o desenvolvimento com **Java**, além de um forte foco em **SQL** para manipulação de dados. Através de projetos acadêmicos e em grupo, aprimorei minha capacidade de resolver problemas complexos com algoritmos eficientes. Meu principal objetivo é ingressar no mercado como **Desenvolvedor Backend**, contribuindo com sistemas inovadores enquanto evoluo como profissional de alta performance.
+Minha experiência prática envolve principalmente o desenvolvimento com **Java**, além de um forte foco em **SQL** para manipulação de dados. Através de projetos acadêmicos e em grupo, aprimorei minha capacidade de resolver problemas complexos com algoritmos eficientes. Meu principal objetivo é ingressar no mercado com o foco como **Desenvolvedor Backend**, contribuindo com sistemas inovadores enquanto evoluo como profissional de alta performance.
 
 <p align="left">
     <a href="https://github.com/RuanSMeira?tab=repositories&sort=stargazers">
